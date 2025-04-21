@@ -46,6 +46,7 @@ export default function CarDetails() {
 
   return (
     <div className="space-y-6">
+    <h1 className="text-2xl">Creatovia Vin Check</h1>
       {/* VIN Input */}
       <div className="w-full max-w-sm">
         <div className="relative">
